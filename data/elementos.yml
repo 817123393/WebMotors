@@ -1,0 +1,18 @@
+################## Pagina Inicial ##################
+
+ver_ofertas: "a[class='Button Button--red-home']"
+
+################## Pagina Ofertas ##################
+
+marca_honda: "a[class='CardMake'][title='honda']"
+todos_modelos: "div[class='Filters__line Filters__line--gray Filters__line--icon Filters__line--icon--right']"
+modelo_city: "a[class='Filters__line Filters__line__result']"
+todas_versoes: "div[class='Filters__line Filters__line--icon Filters__line--icon Filters__line--icon--right Filters__line--gray']"
+titulo_versao: "div[class='Filters__container__title']"
+versao_selecionada: "a[class='Filters__line Filters__line__result']"
+carros_encontrados: "strong[class='sc-hzDkRC gcWVAm']"
+carros_retornados: "div[class='sc-hmzhuo jPTHyg']"
+carros_listagem: "div[class='sc-iyvyFf kwbrDX']"
+botao_cookie: "button[class='sc-htoDjs gtMZoW']"
+nome_carro: "h2[class='sc-dNLxif jJaNms']"
+especificacao_carro: "h3[class='sc-jqCOkK cxfIOg']"
